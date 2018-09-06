@@ -9,5 +9,5 @@ function happyHolidayTo(string1, string2) {
   return "Happy " + string1 + ", " + string2 +"!";
 }
 function holidayCountdown(holiday, days) {
-  return "It\'s "+ days + "days until " + holiday + "!";
+  return "It\'s "+ days + " days until " + holiday + "!";
 }
